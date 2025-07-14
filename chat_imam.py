@@ -53,7 +53,8 @@ with open("D://Users//admin//pyt//imam_zamana_chatbot_dataset.json", "r", encodi
     dataset = json.load(f)
 
 # ========== 5. Groq API Key ==========
-GROQ_API_KEY = st.secrets["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"]
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+
 # ========== 6. Utility Functions ==========
 def detect_language(text):
     try:
