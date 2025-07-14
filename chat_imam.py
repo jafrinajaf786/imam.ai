@@ -49,7 +49,7 @@ st.title("🕌 Mahadvi313.Ai")
 st.markdown("Ask in **English / Hindi / Hinglish**. This bot only answers questions about **Imam Mahdi (a.s.)**.")
 st.info(f"{"This Bot can make Mistakes"}\n {"Ye Bot Galti kar sakta hai"}")
 # ========== 4. Load Dataset ==========
-with open("D://Users//admin//pyt//imam_zamana_chatbot_dataset.json", "r", encoding="utf-8") as f:
+with open("imam_zamana_chatbot_dataset.json", "r", encoding="utf-8") as f:
     dataset = json.load(f)
 
 # ========== 5. Groq API Key ==========
