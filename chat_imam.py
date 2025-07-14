@@ -97,7 +97,8 @@ def is_about_mahdi(text):
         "al mahdi", "imam of time", "imam of our age", "imam asr", "imam zamana", "sahib uz zaman",
         "imam asr e zaman", "hujjat", "imam al hujjat", "imam hujjat", "imam hujjat ibn hasan",
         "mahdi ibn hasan", "hujjat ibn hasan", "hujjat ibn al hasan", "qaem", "al qaem", "al qaim", "qa'im",
-        "imam qaim", "imam qaem", "imam al qaim", "al muntazar", "imam muntazar",
+        "imam qaim", "imam qaem", "imam al qaim", "al muntazar", "imam muntazar","ziyarat", "ziyarate ashura", "ziyarate warisa", "ziyarat e aale yaseen", "ziyarat of imam mahdi",
+    "ziyarat e mahdi", "ziyarat of hujjat", "durood", "ziyarate ale yaseen", "ale yaseen", "ziyarate imam",
 
         # 🌟 Family and Lineage
         "imam hasan askari", "imam hasan askari a.s", "bibi narjis", "narjis bibi", "mother of mahdi",
